@@ -1,0 +1,6 @@
+age = input("how old are you: ")
+bday = input("whens your birth day: ")
+food = input("whats your favourite food: ")
+subject = input("whats your favourite subject: ")
+drink = input("whats your favourite  drink: ")
+print("you are " + age + " years old" + " you were born in " + bday + " your favourite food is " + food + " and your favourite subject is " + subject + " your vafourite drink is " + drink + ".")
