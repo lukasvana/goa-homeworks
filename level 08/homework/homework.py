@@ -2,4 +2,5 @@
 num1 = int(input("enter num1: "))
 num2 = int(input("enter num2: "))
 numbers = num1>num2
+print(numbers)
 print(type(numbers))
