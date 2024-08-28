@@ -1,4 +1,6 @@
-# შექმენით ცვლადი სადაც შეიტანთ string-ს და ეს სტრინგი უნდა გადააქციოთ ინტეჯერად და უნდა ახსნათ კომენტარებით რატო არ შეიძლება რომ ეს string-ი გადავაქციოთ ინტეჯერად
-name = "luka"
-int(name)
-#ამოაგდებს ერორს რადგან int არის მხოლოდ რიცხვით მოიფარგლება
+age = input("how old are you: ")
+bday = input("whens your birth day: ")
+food = input("whats your favourite food: ")
+subject = input("whats your favourite subject: ")
+drink = input("whats your favourite  drink: ")
+print("you are " + age + " years old" + " you were born in " + bday + " your favourite food is " + food + " and your favourite subject is " + subject + " your vafourite drink is " + drink + ".")
